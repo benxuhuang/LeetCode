@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\bin\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\bin\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\bin\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\bin\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\bin\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\bin\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\obj\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\obj\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\obj\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\obj\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1331. Rank Transform of an Array (Easy)\obj\Debug\netcoreapp3.1\1331. Rank Transform of an Array (Easy).pdb

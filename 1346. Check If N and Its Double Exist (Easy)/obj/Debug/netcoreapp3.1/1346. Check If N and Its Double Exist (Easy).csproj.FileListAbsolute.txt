@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\obj\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\obj\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\obj\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\bin\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\bin\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\bin\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\bin\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\bin\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\bin\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\obj\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1346. Check If N and Its Double Exist (Easy)\obj\Debug\netcoreapp3.1\1346. Check If N and Its Double Exist (Easy).pdb

@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\bin\Release\netcoreapp3.1\0283. Move Zeroes (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\bin\Release\netcoreapp3.1\0283. Move Zeroes (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\bin\Release\netcoreapp3.1\0283. Move Zeroes (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\bin\Release\netcoreapp3.1\0283. Move Zeroes (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\bin\Release\netcoreapp3.1\0283. Move Zeroes (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\bin\Release\netcoreapp3.1\0283. Move Zeroes (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\obj\Release\netcoreapp3.1\0283. Move Zeroes (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\obj\Release\netcoreapp3.1\0283. Move Zeroes (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\obj\Release\netcoreapp3.1\0283. Move Zeroes (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\obj\Release\netcoreapp3.1\0283. Move Zeroes (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0283. Move Zeroes (Easy)\obj\Release\netcoreapp3.1\0283. Move Zeroes (Easy).pdb

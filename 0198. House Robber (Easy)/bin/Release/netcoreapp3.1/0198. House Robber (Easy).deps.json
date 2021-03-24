@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "0198. House Robber (Easy)/1.0.0": {
+        "runtime": {
+          "0198. House Robber (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0198. House Robber (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

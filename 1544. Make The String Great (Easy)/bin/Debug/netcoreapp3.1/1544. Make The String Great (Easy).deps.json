@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1544. Make The String Great (Easy)/1.0.0": {
+        "runtime": {
+          "1544. Make The String Great (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1544. Make The String Great (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

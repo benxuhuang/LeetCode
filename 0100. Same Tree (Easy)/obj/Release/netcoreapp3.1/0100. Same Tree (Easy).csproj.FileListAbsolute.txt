@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\bin\Release\netcoreapp3.1\0100. Same Tree (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\bin\Release\netcoreapp3.1\0100. Same Tree (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\bin\Release\netcoreapp3.1\0100. Same Tree (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\bin\Release\netcoreapp3.1\0100. Same Tree (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\bin\Release\netcoreapp3.1\0100. Same Tree (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\bin\Release\netcoreapp3.1\0100. Same Tree (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\obj\Release\netcoreapp3.1\0100. Same Tree (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\obj\Release\netcoreapp3.1\0100. Same Tree (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\obj\Release\netcoreapp3.1\0100. Same Tree (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0100. Same Tree (Easy)\obj\Release\netcoreapp3.1\0100. Same Tree (Easy).pdb

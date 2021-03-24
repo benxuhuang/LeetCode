@@ -1,0 +1,12 @@
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\bin\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\bin\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\bin\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\bin\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\bin\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\bin\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\obj\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\obj\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\obj\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\obj\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\obj\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0563. Binary Tree Tilt (Easy)\obj\Debug\netcoreapp3.1\0563. Binary Tree Tilt (Easy).genruntimeconfig.cache

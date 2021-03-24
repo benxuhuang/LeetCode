@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\obj\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\obj\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\bin\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\bin\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\bin\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\bin\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\bin\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\bin\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\obj\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0392. Is Subsequence (Easy)\obj\Debug\netcoreapp3.1\0392. Is Subsequence (Easy).pdb

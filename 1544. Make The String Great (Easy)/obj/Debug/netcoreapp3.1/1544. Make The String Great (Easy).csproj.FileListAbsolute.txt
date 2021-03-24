@@ -1,0 +1,12 @@
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\bin\Debug\netcoreapp3.1\1544. Make The String Great (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\bin\Debug\netcoreapp3.1\1544. Make The String Great (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\bin\Debug\netcoreapp3.1\1544. Make The String Great (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\bin\Debug\netcoreapp3.1\1544. Make The String Great (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\bin\Debug\netcoreapp3.1\1544. Make The String Great (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\bin\Debug\netcoreapp3.1\1544. Make The String Great (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\obj\Debug\netcoreapp3.1\1544. Make The String Great (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\obj\Debug\netcoreapp3.1\1544. Make The String Great (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\obj\Debug\netcoreapp3.1\1544. Make The String Great (Easy).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\obj\Debug\netcoreapp3.1\1544. Make The String Great (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\obj\Debug\netcoreapp3.1\1544. Make The String Great (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1544. Make The String Great (Easy)\obj\Debug\netcoreapp3.1\1544. Make The String Great (Easy).genruntimeconfig.cache

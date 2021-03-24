@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\bin\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\bin\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\bin\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\bin\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\bin\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\bin\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\obj\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\obj\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\obj\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\obj\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0575. Distribute Candies (Easy)\obj\Debug\netcoreapp3.1\0575. Distribute Candies (Easy).pdb

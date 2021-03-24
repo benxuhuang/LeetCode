@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "0169. Majority Element (Easy)/1.0.0": {
+        "runtime": {
+          "0169. Majority Element (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0169. Majority Element (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

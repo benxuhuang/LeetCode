@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1160. Find Words That Can Be Formed by Characters (Easy)/1.0.0": {
+        "runtime": {
+          "1160. Find Words That Can Be Formed by Characters (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1160. Find Words That Can Be Formed by Characters (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

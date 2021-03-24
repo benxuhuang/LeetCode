@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\bin\Debug\netcoreapp3.1\TreeManipulate.exe
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\bin\Debug\netcoreapp3.1\TreeManipulate.deps.json
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\bin\Debug\netcoreapp3.1\TreeManipulate.runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\bin\Debug\netcoreapp3.1\TreeManipulate.runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\bin\Debug\netcoreapp3.1\TreeManipulate.dll
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\bin\Debug\netcoreapp3.1\TreeManipulate.pdb
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\obj\Debug\netcoreapp3.1\TreeManipulate.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\obj\Debug\netcoreapp3.1\TreeManipulate.AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\obj\Debug\netcoreapp3.1\TreeManipulate.AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\obj\Debug\netcoreapp3.1\TreeManipulate.dll
+C:\Users\N000158893\source\repos\LeetCode\TreeManipulate\obj\Debug\netcoreapp3.1\TreeManipulate.pdb

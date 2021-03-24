@@ -1,0 +1,11 @@
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\bin\Debug\netcoreapp3.1\Add Binary.exe
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\bin\Debug\netcoreapp3.1\Add Binary.deps.json
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\bin\Debug\netcoreapp3.1\Add Binary.runtimeconfig.json
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\bin\Debug\netcoreapp3.1\Add Binary.runtimeconfig.dev.json
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\bin\Debug\netcoreapp3.1\Add Binary.dll
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\bin\Debug\netcoreapp3.1\Add Binary.pdb
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\obj\Debug\netcoreapp3.1\Add Binary.csprojAssemblyReference.cache
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\obj\Debug\netcoreapp3.1\Add Binary.AssemblyInfoInputs.cache
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\obj\Debug\netcoreapp3.1\Add Binary.AssemblyInfo.cs
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\obj\Debug\netcoreapp3.1\Add Binary.dll
+C:\Users\N000158893\Source\Repos\LeetCode\Add Binary\obj\Debug\netcoreapp3.1\Add Binary.pdb

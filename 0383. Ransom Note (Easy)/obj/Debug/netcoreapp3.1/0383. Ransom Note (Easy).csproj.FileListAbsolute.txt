@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\bin\Debug\netcoreapp3.1\0383. Ransom Note (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\bin\Debug\netcoreapp3.1\0383. Ransom Note (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\bin\Debug\netcoreapp3.1\0383. Ransom Note (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\bin\Debug\netcoreapp3.1\0383. Ransom Note (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\bin\Debug\netcoreapp3.1\0383. Ransom Note (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\bin\Debug\netcoreapp3.1\0383. Ransom Note (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\obj\Debug\netcoreapp3.1\0383. Ransom Note (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\obj\Debug\netcoreapp3.1\0383. Ransom Note (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\obj\Debug\netcoreapp3.1\0383. Ransom Note (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0383. Ransom Note (Easy)\obj\Debug\netcoreapp3.1\0383. Ransom Note (Easy).pdb

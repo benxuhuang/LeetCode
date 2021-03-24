@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "0108. Convert Sorted Array to Binary Search Tree (Easy)/1.0.0": {
+        "runtime": {
+          "0108. Convert Sorted Array to Binary Search Tree (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0108. Convert Sorted Array to Binary Search Tree (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

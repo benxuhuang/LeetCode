@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\bin\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\bin\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\bin\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\bin\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\bin\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\bin\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\obj\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\obj\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\obj\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0205. Isomorphic Strings (Easy)\obj\Debug\netcoreapp3.1\0205. Isomorphic Strings (Easy).pdb

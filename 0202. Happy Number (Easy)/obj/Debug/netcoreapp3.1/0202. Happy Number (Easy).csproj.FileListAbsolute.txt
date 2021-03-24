@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\bin\Debug\netcoreapp3.1\0202. Happy Number (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\bin\Debug\netcoreapp3.1\0202. Happy Number (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\bin\Debug\netcoreapp3.1\0202. Happy Number (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\bin\Debug\netcoreapp3.1\0202. Happy Number (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\bin\Debug\netcoreapp3.1\0202. Happy Number (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\bin\Debug\netcoreapp3.1\0202. Happy Number (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\obj\Debug\netcoreapp3.1\0202. Happy Number (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\obj\Debug\netcoreapp3.1\0202. Happy Number (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\obj\Debug\netcoreapp3.1\0202. Happy Number (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\obj\Debug\netcoreapp3.1\0202. Happy Number (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0202. Happy Number (Easy)\obj\Debug\netcoreapp3.1\0202. Happy Number (Easy).pdb

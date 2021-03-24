@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\obj\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\obj\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\bin\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\bin\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\bin\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\bin\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\bin\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\bin\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\obj\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0217. Contains Duplicate (Easy)\obj\Debug\netcoreapp3.1\0217. Contains Duplicate (Easy).pdb

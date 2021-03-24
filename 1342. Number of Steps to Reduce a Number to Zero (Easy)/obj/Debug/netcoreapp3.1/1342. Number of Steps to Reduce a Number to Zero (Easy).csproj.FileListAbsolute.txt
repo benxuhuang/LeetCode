@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\bin\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\bin\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\bin\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\bin\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\bin\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\bin\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\obj\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\obj\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\obj\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1342. Number of Steps to Reduce a Number to Zero (Easy)\obj\Debug\netcoreapp3.1\1342. Number of Steps to Reduce a Number to Zero (Easy).pdb

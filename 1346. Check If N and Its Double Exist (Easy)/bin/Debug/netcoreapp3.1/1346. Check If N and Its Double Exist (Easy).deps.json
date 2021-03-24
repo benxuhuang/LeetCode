@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1346. Check If N and Its Double Exist (Easy)/1.0.0": {
+        "runtime": {
+          "1346. Check If N and Its Double Exist (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1346. Check If N and Its Double Exist (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

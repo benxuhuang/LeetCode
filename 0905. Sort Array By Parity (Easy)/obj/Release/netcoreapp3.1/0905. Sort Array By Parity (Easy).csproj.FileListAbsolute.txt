@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\bin\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\bin\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\bin\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\bin\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\bin\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\bin\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\obj\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\obj\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\obj\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\obj\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0905. Sort Array By Parity (Easy)\obj\Release\netcoreapp3.1\0905. Sort Array By Parity (Easy).pdb

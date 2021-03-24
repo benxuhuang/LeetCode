@@ -1,0 +1,13 @@
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\bin\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\bin\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\bin\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\bin\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\bin\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\bin\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\1640. Check Array Formation Through Concatenation (Easy)\obj\Debug\netcoreapp3.1\1640. Check Array Formation Through Concatenation (Easy).genruntimeconfig.cache

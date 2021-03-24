@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\bin\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\bin\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\bin\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\bin\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\bin\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\bin\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\obj\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\obj\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\obj\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0404. Sum of Left Leaves (Easy)\obj\Debug\netcoreapp3.1\0404. Sum of Left Leaves (Easy).pdb

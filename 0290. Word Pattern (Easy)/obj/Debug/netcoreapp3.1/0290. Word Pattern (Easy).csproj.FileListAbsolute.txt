@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\bin\Debug\netcoreapp3.1\0290. Word Pattern (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\bin\Debug\netcoreapp3.1\0290. Word Pattern (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\bin\Debug\netcoreapp3.1\0290. Word Pattern (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\bin\Debug\netcoreapp3.1\0290. Word Pattern (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\bin\Debug\netcoreapp3.1\0290. Word Pattern (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\bin\Debug\netcoreapp3.1\0290. Word Pattern (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\obj\Debug\netcoreapp3.1\0290. Word Pattern (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\obj\Debug\netcoreapp3.1\0290. Word Pattern (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\obj\Debug\netcoreapp3.1\0290. Word Pattern (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\obj\Debug\netcoreapp3.1\0290. Word Pattern (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0290. Word Pattern (Easy)\obj\Debug\netcoreapp3.1\0290. Word Pattern (Easy).pdb

@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\bin\Debug\netcoreapp3.1\0136. Single Number (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\bin\Debug\netcoreapp3.1\0136. Single Number (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\bin\Debug\netcoreapp3.1\0136. Single Number (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\bin\Debug\netcoreapp3.1\0136. Single Number (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\bin\Debug\netcoreapp3.1\0136. Single Number (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\bin\Debug\netcoreapp3.1\0136. Single Number (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\obj\Debug\netcoreapp3.1\0136. Single Number (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\obj\Debug\netcoreapp3.1\0136. Single Number (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\obj\Debug\netcoreapp3.1\0136. Single Number (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0136. Single Number (Easy)\obj\Debug\netcoreapp3.1\0136. Single Number (Easy).pdb

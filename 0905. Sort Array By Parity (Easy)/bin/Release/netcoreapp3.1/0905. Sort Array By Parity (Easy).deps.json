@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "0905. Sort Array By Parity (Easy)/1.0.0": {
+        "runtime": {
+          "0905. Sort Array By Parity (Easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0905. Sort Array By Parity (Easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

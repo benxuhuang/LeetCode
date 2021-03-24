@@ -1,0 +1,11 @@
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\bin\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\bin\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\bin\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\bin\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\bin\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\bin\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\obj\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\obj\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\obj\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\obj\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0438. Find All Anagrams in a String (Easy)\obj\Debug\netcoreapp3.1\0438. Find All Anagrams in a String (Easy).pdb

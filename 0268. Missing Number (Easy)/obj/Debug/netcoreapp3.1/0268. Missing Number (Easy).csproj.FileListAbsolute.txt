@@ -1,0 +1,10 @@
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\bin\Debug\netcoreapp3.1\0268. Missing Number (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\bin\Debug\netcoreapp3.1\0268. Missing Number (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\bin\Debug\netcoreapp3.1\0268. Missing Number (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\bin\Debug\netcoreapp3.1\0268. Missing Number (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\bin\Debug\netcoreapp3.1\0268. Missing Number (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\bin\Debug\netcoreapp3.1\0268. Missing Number (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\obj\Debug\netcoreapp3.1\0268. Missing Number (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\obj\Debug\netcoreapp3.1\0268. Missing Number (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\obj\Debug\netcoreapp3.1\0268. Missing Number (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0268. Missing Number (Easy)\obj\Debug\netcoreapp3.1\0268. Missing Number (Easy).pdb
