@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Subarray (Easy)", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Binary", "Add Binary\Add Binary.csproj", "{17B2B3D7-E22C-4DE5-AB6F-DD7B9373FB04}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode 70. Climbing Stairs", "LeetCode 70. Climbing Stairs\LeetCode 70. Climbing Stairs.csproj", "{F18B62E4-C9AD-458B-A659-31E7BAE94AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70. Climbing Stairs", "LeetCode 70. Climbing Stairs\70. Climbing Stairs.csproj", "{F18B62E4-C9AD-458B-A659-31E7BAE94AC2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0083. Remove Duplicates from Sorted List (Easy)", "0083. Remove Duplicates from Sorted List (Easy)\0083. Remove Duplicates from Sorted List (Easy).csproj", "{87960514-9082-46F8-B71E-DCA3EDCDE640}"
 EndProject
@@ -125,7 +125,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0563. Binary Tree Tilt (Eas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1544. Make The String Great (Easy)", "1544. Make The String Great (Easy)\1544. Make The String Great (Easy).csproj", "{67CE3A1E-01D7-4464-8359-7B25765C02A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1640. Check Array Formation Through Concatenation (Easy)", "1640. Check Array Formation Through Concatenation (Easy)\1640. Check Array Formation Through Concatenation (Easy).csproj", "{5FE73BD2-9FF8-41D2-B47D-F14B5F9D4738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1640. Check Array Formation Through Concatenation (Easy)", "1640. Check Array Formation Through Concatenation (Easy)\1640. Check Array Formation Through Concatenation (Easy).csproj", "{5FE73BD2-9FF8-41D2-B47D-F14B5F9D4738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0367. Valid Perfect Square (Easy)", "0367. Valid Perfect Square (Easy)\0367. Valid Perfect Square (Easy).csproj", "{85803788-0275-476E-AC61-94A361820758}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -377,6 +379,10 @@ Global
 		{5FE73BD2-9FF8-41D2-B47D-F14B5F9D4738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE73BD2-9FF8-41D2-B47D-F14B5F9D4738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE73BD2-9FF8-41D2-B47D-F14B5F9D4738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85803788-0275-476E-AC61-94A361820758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85803788-0275-476E-AC61-94A361820758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85803788-0275-476E-AC61-94A361820758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85803788-0275-476E-AC61-94A361820758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

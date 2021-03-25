@@ -1,0 +1,13 @@
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\bin\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).exe
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\bin\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\bin\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\bin\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\bin\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\bin\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).dll
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).pdb
+C:\Users\N000158893\source\repos\LeetCode\0367. Valid Perfect Square (Easy)\obj\Debug\netcoreapp3.1\0367. Valid Perfect Square (Easy).genruntimeconfig.cache
