@@ -1,0 +1,13 @@
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\bin\Debug\netcoreapp3.1\0089. Gray Code (Medium).exe
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\bin\Debug\netcoreapp3.1\0089. Gray Code (Medium).deps.json
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\bin\Debug\netcoreapp3.1\0089. Gray Code (Medium).runtimeconfig.json
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\bin\Debug\netcoreapp3.1\0089. Gray Code (Medium).runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\bin\Debug\netcoreapp3.1\0089. Gray Code (Medium).dll
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\bin\Debug\netcoreapp3.1\0089. Gray Code (Medium).pdb
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).AssemblyInfo.cs
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).dll
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).pdb
+C:\Users\N000158893\source\repos\LeetCode\0089. Gray Code (Medium)\obj\Debug\netcoreapp3.1\0089. Gray Code (Medium).genruntimeconfig.cache
