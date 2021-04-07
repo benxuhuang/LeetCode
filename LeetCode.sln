@@ -133,9 +133,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0015. 3Sum (Medium)", "0015
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0089. Gray Code (Medium)", "0089. Gray Code (Medium)\0089. Gray Code (Medium).csproj", "{A9328168-0902-4782-9A61-4D8FF0DC1F86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0092. Reverse Linked List II (Medium)", "0092. Reverse Linked List II (Medium)\0092. Reverse Linked List II (Medium).csproj", "{EF34E6BF-CAEE-4242-90A9-A2288943DC00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0092. Reverse Linked List II (Medium)", "0092. Reverse Linked List II (Medium)\0092. Reverse Linked List II (Medium).csproj", "{EF34E6BF-CAEE-4242-90A9-A2288943DC00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0098. Validate Binary Search Tree (Medium)", "0098. Validate Binary Search Tree (Medium)\0098. Validate Binary Search Tree (Medium).csproj", "{1FE75EA8-62EF-49F8-8568-89ECE5BE332A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0098. Validate Binary Search Tree (Medium)", "0098. Validate Binary Search Tree (Medium)\0098. Validate Binary Search Tree (Medium).csproj", "{1FE75EA8-62EF-49F8-8568-89ECE5BE332A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0094. Binary Tree Inorder Traversal (Medium)", "0094. Binary Tree Inorder Traversal (Medium)\0094. Binary Tree Inorder Traversal (Medium).csproj", "{1A514A36-063A-4EA6-98F2-5A847E40DAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -407,6 +409,10 @@ Global
 		{1FE75EA8-62EF-49F8-8568-89ECE5BE332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE75EA8-62EF-49F8-8568-89ECE5BE332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE75EA8-62EF-49F8-8568-89ECE5BE332A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A514A36-063A-4EA6-98F2-5A847E40DAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A514A36-063A-4EA6-98F2-5A847E40DAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A514A36-063A-4EA6-98F2-5A847E40DAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A514A36-063A-4EA6-98F2-5A847E40DAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
