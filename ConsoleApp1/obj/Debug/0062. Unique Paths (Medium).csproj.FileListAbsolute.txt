@@ -1,0 +1,7 @@
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\obj\Debug\0062. Unique Paths (Medium).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\obj\Debug\0062. Unique Paths (Medium).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
