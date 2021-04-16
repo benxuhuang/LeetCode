@@ -141,6 +141,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0094. Binary Tree Inorder T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0062. Unique Paths (Medium)", "ConsoleApp1\0062. Unique Paths (Medium).csproj", "{ABAC6C2C-C997-4F4F-B77F-57DA50805942}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0229. Majority Element II (Medium)", "0229. Majority Element II (Medium)\0229. Majority Element II (Medium).csproj", "{F1402D3D-B8AE-488D-872E-526DFF6FD78A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -419,6 +421,10 @@ Global
 		{ABAC6C2C-C997-4F4F-B77F-57DA50805942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABAC6C2C-C997-4F4F-B77F-57DA50805942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABAC6C2C-C997-4F4F-B77F-57DA50805942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1402D3D-B8AE-488D-872E-526DFF6FD78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1402D3D-B8AE-488D-872E-526DFF6FD78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1402D3D-B8AE-488D-872E-526DFF6FD78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1402D3D-B8AE-488D-872E-526DFF6FD78A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
