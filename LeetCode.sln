@@ -145,6 +145,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0229. Majority Element II (
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0063. Unique Paths II (Medium)", "0063. Unique Paths II (Medium)\0063. Unique Paths II (Medium).csproj", "{79116184-04B7-4035-832C-BBE12BCA1BBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0096. Unique Binary Search Trees (Medium)", "0096. Unique Binary Search Trees (Medium)\0096. Unique Binary Search Trees (Medium).csproj", "{092CC8C5-7143-42AA-8E70-A0911FC3BE15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -431,6 +433,10 @@ Global
 		{79116184-04B7-4035-832C-BBE12BCA1BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79116184-04B7-4035-832C-BBE12BCA1BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79116184-04B7-4035-832C-BBE12BCA1BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092CC8C5-7143-42AA-8E70-A0911FC3BE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092CC8C5-7143-42AA-8E70-A0911FC3BE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092CC8C5-7143-42AA-8E70-A0911FC3BE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092CC8C5-7143-42AA-8E70-A0911FC3BE15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
