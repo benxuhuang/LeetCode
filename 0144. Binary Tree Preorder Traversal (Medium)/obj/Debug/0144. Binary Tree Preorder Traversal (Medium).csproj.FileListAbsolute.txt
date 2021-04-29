@@ -1,0 +1,7 @@
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\bin\Debug\_0144.Binary_Tree_Preorder_Traversal__Medium_.exe.config
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\bin\Debug\_0144.Binary_Tree_Preorder_Traversal__Medium_.exe
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\bin\Debug\_0144.Binary_Tree_Preorder_Traversal__Medium_.pdb
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\obj\Debug\0144. Binary Tree Preorder Traversal (Medium).csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\obj\Debug\0144. Binary Tree Preorder Traversal (Medium).csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\obj\Debug\_0144.Binary_Tree_Preorder_Traversal__Medium_.exe
+C:\Users\N000158893\source\repos\LeetCode\0144. Binary Tree Preorder Traversal (Medium)\obj\Debug\_0144.Binary_Tree_Preorder_Traversal__Medium_.pdb
