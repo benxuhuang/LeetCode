@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0213. House Robber II (Medi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144. Binary Tree Preorder Traversal (Medium)", "0144. Binary Tree Preorder Traversal (Medium)\0144. Binary Tree Preorder Traversal (Medium).csproj", "{2958F2FF-BB22-4B09-A409-CAE0CB0B4786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0148. Sort List (Medium)", "0148. Sort List (Medium)\0148. Sort List (Medium).csproj", "{82BAF61C-9841-408A-B74F-2F27E7F0D472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -449,6 +451,10 @@ Global
 		{2958F2FF-BB22-4B09-A409-CAE0CB0B4786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2958F2FF-BB22-4B09-A409-CAE0CB0B4786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2958F2FF-BB22-4B09-A409-CAE0CB0B4786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
