@@ -1,0 +1,7 @@
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\N000158893\source\repos\LeetCode\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

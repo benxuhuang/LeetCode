@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144. Binary Tree Preorder 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0148. Sort List (Medium)", "0148. Sort List (Medium)\0148. Sort List (Medium).csproj", "{82BAF61C-9841-408A-B74F-2F27E7F0D472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{92E80CF9-3445-49B3-904D-C193C2A624EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -455,6 +457,10 @@ Global
 		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82BAF61C-9841-408A-B74F-2F27E7F0D472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E80CF9-3445-49B3-904D-C193C2A624EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E80CF9-3445-49B3-904D-C193C2A624EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E80CF9-3445-49B3-904D-C193C2A624EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E80CF9-3445-49B3-904D-C193C2A624EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
